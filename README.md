@@ -1,7 +1,7 @@
 # Custom-Tekkit-SMP-Recipes
 Custom Recipes
 
-# Dynamite
+# Dynamite ( removed due griefing )
 ![image](https://github.com/user-attachments/assets/c2c35c9b-6c2f-4ffa-9329-5bf3d23c6887)
 
 # Gem Leggings
