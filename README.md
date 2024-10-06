@@ -6,8 +6,10 @@ Recipes go with a order.
 
 A: Mobius Fuel Block, B: Mobius Fuel and C: Flint and steel.
 
-ABA,
-BCB,
+ABA
+
+BCB
+
 ABA
 
 # Hyperkinetic Lens
@@ -32,6 +34,33 @@ Red Matter Helmet, Nanosuit Goggles of Revealing, Advanced Solar Helmet
 
 Evertide Amulet, Klein Star Omega, Soul Stone
 
-Ultimate Hybrid Solar Helmet, Quantum Goggles of Revealing, Dark Matter Helmet
+Ultimate Hybrid Solar Helmet, Quantum Goggles of Revealing, Dark Matter Helmet.
+
+![image](https://github.com/user-attachments/assets/d16c872c-79f5-40a5-a312-ef83e9bd061f)
+
+Red Matter Chestplate, Advanced Nuclear Nano Chestplate, Nanosuit Bodyarmor
+
+Volcanite Amulet, Klein Star Omega, Body Stone
+
+Quantumsuit BodyJetplate, Nuclear Gravititation Chestplate, Dark Matter Chestplate.
+
+![image](https://github.com/user-attachments/assets/aacf6402-41cf-4270-8b22-39abea8fb270)
+
+Red Matter Leggings, Nanosuit Wings, Nanosuit Leggings
+
+Void Ring, Klein Star Omega, Ring of Arcana
+
+Quantumsuit Leggings, Quantum Wings, Dark Matter Leggings.
+
+![image](https://github.com/user-attachments/assets/83f88a1b-53ef-47dd-ab64-ddf41be5e0aa)
+
+Red Matter Boots, Nanosuit Boots of the Traveller, Nanosuit Boots
+
+Swiftwolf's Rending Gale, Klein Star Omega, Swiftwolf's Rending Gale
+
+Quantumsuit Boots, Quantum Boots of the Traveller, Dark Matter Boots.
+
+
+
 
 
