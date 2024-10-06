@@ -6,8 +6,8 @@ Recipes go with a order.
 
 A: Mobius Fuel Block, B: Mobius Fuel and C: Flint and steel.
 
-ABA
-BCB
+ABA,
+BCB,
 ABA
 
 # Hyperkinetic Lens
@@ -29,7 +29,9 @@ There is normal Vajra recipe and another one with tons of tools. You can find th
 ![image](https://github.com/user-attachments/assets/fe5542c0-d9bc-4551-83a8-87bab5eb4620)
 
 Red Matter Helmet, Nanosuit Goggles of Revealing, Advanced Solar Helmet
+
 Evertide Amulet, Klein Star Omega, Soul Stone
+
 Ultimate Hybrid Solar Helmet, Quantum Goggles of Revealing, Dark Matter Helmet
 
 
